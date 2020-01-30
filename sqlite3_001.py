@@ -23,6 +23,8 @@ teste
 
 teste de entrada
 
+teste de merda
+
 """
 
 import sqlite3
